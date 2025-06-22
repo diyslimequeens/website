@@ -1,0 +1,24 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: 'Helvetica Neue', sans-serif;
+}
+
+body {
+  background: url('flyer.png') no-repeat center center fixed;
+  background-size: contain;
+  background-color: #bde6fb;
+  cursor: pointer;
+}
+
+.overlay {
+  position: fixed;
+  bottom: 20px;
+  width: 100%;
+  text-align: center;
+  color: #333;
+  font-size: 1rem;
+  background-color: rgba(255, 255, 255, 0.7);
+  padding: 10px;
+}
