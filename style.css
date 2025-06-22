@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-  background: url('flyer.png') no-repeat center center fixed;
+  background: url('website.png') no-repeat center center fixed;
   background-size: contain;
   background-color: #bde6fb;
   cursor: pointer;
